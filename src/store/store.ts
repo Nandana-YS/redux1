@@ -9,6 +9,10 @@ const counterSlice = createSlice({
     },
     decrement: (state) => {
       state.value -= 1;
+      10:25
+      
+      
+      
     },
   },
 });
